@@ -1,4 +1,4 @@
-# Go Wiper
+# Quickwipe
  
 A secure and efficient block device wiping tool written in Go.
 
